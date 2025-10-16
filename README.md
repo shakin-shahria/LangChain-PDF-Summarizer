@@ -1,4 +1,4 @@
-# LangChain
+# LangChain PDF Summarizer
 
 **PDF Summarizer** is an AI-powered web application that leverages **LangChain** to summarize PDF documents quickly and efficiently. It extracts the most important information from PDFs and presents concise, easy-to-read summaries.
 
